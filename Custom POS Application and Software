@@ -1,0 +1,81 @@
+Girmiti Software has expertise in consulting, designing, and developing SDK platforms for terminal manufacturers and has expertise in developing EMV PoS applications for terminal manufacturing partners. We also help them in getting certified with acquirer and leverage expertise in porting the SDK to new versions and new platforms like Linux OS. Our experience extends to working on drivers, embedded devices through working closely with Hardware manufactures.
+
+Our expertise in areas of testing, scripting on devices, platforms to test, helps customer products to be certified and successfully complete UAT with 3rd party vendors.
+
+Our Team designed, developed and provided support for PoS applications on different terminal SDK platforms based on business requirements from different regional customers (APAC, EMEA, Canada, America).
+
+Our team carries the expertise on Terminals and SDK expertise including:
+
+•	VeriFone (VOS, VOS2, Verix, Verix-V, eVo, Nurit-Lipman, Mx, Gemalto - Magic SDK)
+•	Ingenico (Inge-platform, Telium and Tetra series)
+•	Hypercom (Optimum series ODT, Thales)
+•	Castles (COTS)
+•	PAX (Proteus platform)
+•	Geodesic (Geo-Amida SDK)
+•	ExadiGm
+•	Geodesik
+•	ATOS
+
+Types of PoS Application development undertaken (includes providing solution on open loop/closed loop environments):
+
+•	Credit/Debit
+•	EMV Contact, Contactless, Mobile
+•	DCC (Multi Currency support)
+•	Prepaid, Loyalty, Gift, Top-Up, Ticketing, transit, Sport events, Restaurants, sports, Health Care, Insurance etc.
+•	Financial Inclusion (Micro Finance)
+•	Cloud POS
+•	Device Signing, Remote Key Injection
+
+Apart from the above listed business features, we have worked on interfacing POS device with Cash Drawer, Wireless/Bluetooth Printer, Contactless Reader, Biometric, Bar Code and Check scanner.
+
+Our team carries the deep expertise in domain protocols, technology and supporting tools such as:
+
+•	ISO-8583/APACS protocol
+•	EPAS/Nexo
+•	TMS Support (VeriCentre, Inge-state, Term-master)
+•	Remote Key Injection
+•	Multi-Application (VMAC, App-Manager) compatibility
+•	Card Layout preparation & security
+•	Various communication support to the Host (PSTN/Dial-up - NAC, RAS, CDMA, IP/Ethernet, GPRS,) etc.
+
+Support for card devices
+Cards and Certification
+•	Mag-Stripe cards
+•	Contact Smartcards (EMV - ADVT, TIP, RuPay, AMEX, Discover, SCOSTA, MIFARE, M-chip)
+•	Contactless Smartcards (EMV - qVSDC, PayPass, qSparc, DPAS, ExpressPay, CUP DesFire, DesFire-EV1 tags).
+•	EMV L2 certification for Contactless and Contact cards-based Reader and devices.
+
+New Technology PoS Services
+•	Tap on Phone (mPOS)
+•	EMV QR
+•	Wallet Transactions
+•	Square (Mag-stripe audio-jack dongle) type reader driver interface with smartphones iPhone, Android
+•	Pass-through App for Contactless Reader
+•	Attendance and Access Control Apps on PoS to accept smart poster tags (NDEF, Des-Fire tags).
+
+Our team works to optimize, analyze, design and build POS applications to provide business users, processors, acquirers, prepaid and 3rd party companies a robust system for their daily business or for access information.
+
+POS applications that we build are using the following platforms and technologies
+
+•	C & C++
+•	Android Java
+•	QT
+•	VC++
+
+Our team has developed POS custom application features & solutions for EMV/Non EMV & NFC such as –
+•	mPOS, Mobile Top up
+
+•	Credit / Debit, Gift & Loyalty
+•	Bill payments & interfaces with utilities
+•	Transit issuance/acquiring
+•	E Top Up Solutions, coupons
+•	Multi-currency, eCash
+•	Check, Biometric
+•	Kernel, Reader & driver
+•	Interfaces with mobile devices
+
+Our team carries domain expertise in designing, developing, implementing POS Applications, interfaces for Processors & Terminals.
+
+To know more-
+Visit- https://www.girmiti.com/pos.html
+Mail Us- info@girmiti.com
