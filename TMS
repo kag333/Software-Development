@@ -1,0 +1,44 @@
+Girmiti Software-Terminal Management System | TMS Platform Developer
+
+The POS and mobile terminal manufactures do provide their own Terminal Management Systems, but these can be used to only manage terminals manufactured and supported by them. Keeping this in mind, there would then be multiple Terminal Management Systems adding to the complexity to manage operationally.
+Terminal manufacturers also provide a central Download Management System (DMS) to the Terminal owner to remotely download the App, AM, Data files and System/Application parameter values. Such a DMS may also support remote diagnostic features, depending on the terminal’s capabilities. The protocol and message formats for downloading the various files, parameters between the EDC Terminal and the DMS are mostly proprietary to the Terminal manufacturer. In most of the cases, the terminal manufacturer optimizes these protocols, message formats for performance, and some manufacturers consider certain features of the DMS to add to the unique selling proposition of their terminals as well.
+Our team has expertise to develop TMS platform supports traditional POS and mobile POS, where our team brings the knowledge to build systems to support different types of traditional devices to down load application and in similar way for mPOS devices using android platforms. An integrated single point of entry system would oversee the Merchant, Terminal Management and interface with the manufacturer’s specific Terminal Management Systems. The solution retrieves data from the Merchant Management database to communicate with download management systems. It eliminates the need for multiple entries of merchant data into download systems for different device and mobile manufactures. Such Terminal Management Systems can synchronize data in the Merchant Management System, download systems, improves data accuracy, and reduces help desk support costs with its single, user-friendly interface.
+It reduces the need to train and retrain customer service agents on the different download systems. A single client is all that is required on customer service agent terminals.
+Our team can design, develop, implement and deploy the above features based on the scope to interface with existing systems.
+Key features that Girmiti team has helped build for such a solution are:	
+•	Transaction
+•	Configuration, Reports
+•	Administration
+•	Flexibility- Variable and Fixed Parameters
+•	Provide Application Templates for easy setup of application parameters
+•	Terminal ID generation logic
+•	Wizard based, graphical and intuitive
+•	User-friendly interface for Anywhere, anytime access to terminal information and administration
+•	Handle multiple types of Terminals
+
+•	Unique identification of each EDC terminal across the organization
+•	Provide views of all parameters for any merchant without interfacing with each terminal download system separately
+•	Sets up merchant terminals in various download systems automatically
+•	Synchronize download system with merchant database automatically
+•	Manage EDC parameters eliminating multiple software and system interfaces
+•	Provide file import utility to set up new EDC application for a Processor quickly
+
+Key Benefits of systems that we have helped build-
+•	Availability of real-time information on the assets of the company from anywhere anytime
+•	Real time Inventory Management enables better distribution of assets
+•	Cost-effective & scalable technologies
+•	Reduce Help Desk & support costs
+•	No duplication of data entry – Merchant and Parameter data
+•	Single source reporting for multiple terminal manufacturers
+•	Seamlessly support multiple terminal types
+•	Increase data integrity and accuracy
+•	Single, easy to use interface with wizards and graphic
+
+Interface with:
+Ticket Management System, payment gateway, merchant boarding Synchronizing merchant details, synchronizing merchant user details, Synchronizing existing parameters
+Some of the Diagnostic reports are:
+Battery connected/ Not connected, Location wise, RAM memory available, RAM memory low/ full, USB connected/ not connected, NFC status (enabled/ disabled), Taps, Charging/ internet connection status SIM Card, scheduled download, Schedule based on the serial numbers, Mass schedule, Download history, Version wise apps, Data wise and date range search Alerts for failed downloads, last heartbeat, Merchant devices reports, Location wise reports Download, Version wise reports, Devices wise apps and reports, and Comparison reports.
+For more info - https://www.girmiti.com/tms.html
+
+Terminal Management System, TMS Platform Developer, Girmiti software
+
